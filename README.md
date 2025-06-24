@@ -4,16 +4,13 @@ I am a Senior Multi-Cloud Engineer specializing in Cloud Application and Infrast
 
 
 ### Certifications
-[![OCI AI Foundations Associate](https://img.shields.io/badge/Oracle-Cloud_Infrastructure_AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com)
-[![OCI Security Professional](https://img.shields.io/badge/Oracle-Cloud_Security_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com)
-[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations_Certification-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com)
-[![OCI Architect Pro](https://img.shields.io/badge/Oracle-Cloud_Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com)
-[![Azure Admin Associate](https://img.shields.io/badge/Microsoft-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-104/)
-[![OCI Multicloud Architect](https://img.shields.io/badge/Oracle-Multicloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com)
-[![OCI Architect Associate](https://img.shields.io/badge/Oracle-Cloud_Architect_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com)
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
-[![OCI Foundations](https://img.shields.io/badge/Oracle-Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com)
-[![Cloud DevOps](https://img.shields.io/badge/Udacity-Advanced_Cloud_DevOps-01B3E3?style=for-the-badge&logo=udacity&logoColor=white)](https://www.udacity.com)
-[![AWS re/Start](https://img.shields.io/badge/AWS-re%2FStart_Graduate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/restart/)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+| Provider | Certification | Provider | Certification |
+|----------|---------------|----------|---------------|
+| [![Oracle](https://img.shields.io/badge/Oracle-OCI_AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com) | OCI 2025 AI Foundations Associate | [![Oracle](https://img.shields.io/badge/Oracle-OCI_Security_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com) | OCI 2024 Security Professional |
+| [![GitHub](https://img.shields.io/badge/GitHub-Foundations_Certification-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com) | GitHub Foundations | [![Oracle](https://img.shields.io/badge/Oracle-OCI_Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com) | OCI 2023 Architect Professional |
+| [![Microsoft](https://img.shields.io/badge/Microsoft-Azure_Admin_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com) | Azure Administrator (AZ-104) | [![Oracle](https://img.shields.io/badge/Oracle-Multicloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com) | OCI Multicloud Architect |
+| [![Oracle](https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com) | OCI Architect Associate | [![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) | AWS Solutions Architect |
+| [![Microsoft](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com) | Azure Fundamentals (AZ-900) | [![Oracle](https://img.shields.io/badge/Oracle-OCI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com) | OCI Foundations |
+| [![AWS](https://img.shields.io/badge/AWS-re%2FStart-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) | AWS re/Start Graduate | [![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) | AWS Cloud Practitioner |
+| [![Udacity](https://img.shields.io/badge/Udacity-Cloud_DevOps-01B3E3?style=for-the-badge&logo=udacity&logoColor=white)](https://www.udacity.com) | Advanced Cloud DevOps | | |
